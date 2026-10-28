@@ -1,0 +1,8 @@
+venv/
+.venv/
+.idea/
+__pycache__/
+raw_photocards/
+dataset/images/
+data/train.csv
+ocr_text.csv
